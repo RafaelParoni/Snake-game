@@ -1,4 +1,4 @@
-##### 10 - Game over ####
+
 import pygame, random
 from pygame.locals import *
 
